@@ -1,0 +1,9 @@
+[package]
+authors = ["Jacek Chmielewski <jchmielewski@teonite.com>"]
+edition = "2018"
+name = "hn"
+version = "0.1.0"
+
+[dependencies]
+reqwest = {version = "0.10.8", features = ["blocking", "json"]}
+scraper = "0.12.0"
