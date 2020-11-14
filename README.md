@@ -1,0 +1,1 @@
+Simple commandline tool to get stories from hackernews front page.
